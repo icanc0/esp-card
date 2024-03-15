@@ -1,0 +1,19 @@
+name: generate-schematic-pdf
+
+on: [push, pull_request]
+
+jobs:
+  generate-schematic:
+    runs-on: ubuntu-latest
+    container:
+      image: kicad/kicad:8.0.0
+      options: --user root
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate schematic
+        run: sudo kicad-cli sch export pdf -o schematic-output.pdf esp-card.kicad_sch
+      - name: Upload results
+        uses: actions/upload-artifact@v4
+        with:
+          name: output
+          path: schematic-output.pdf
