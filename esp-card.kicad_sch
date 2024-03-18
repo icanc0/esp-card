@@ -6005,8 +6005,8 @@
 		)
 	)
 	(sheet
-		(at 196.85 41.91)
-		(size 71.12 66.04)
+		(at 199.39 67.31)
+		(size 22.86 13.97)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -6017,7 +6017,7 @@
 		)
 		(uuid "3df2d492-702b-46ff-a95e-f77b75659a52")
 		(property "Sheetname" "LED_matrix"
-			(at 196.85 41.1984 0)
+			(at 199.39 66.5984 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6026,13 +6026,23 @@
 			)
 		)
 		(property "Sheetfile" "LED_matrix.kicad_sch"
-			(at 196.85 108.5346 0)
+			(at 199.39 81.8646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
 			)
+		)
+		(pin "CTRL[0..12]" tri_state
+			(at 199.39 74.93 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "dd9105b8-6704-4178-a87f-47abb04064b2")
 		)
 		(instances
 			(project "esp-card"
