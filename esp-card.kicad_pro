@@ -588,6 +588,10 @@
     [
       "3df2d492-702b-46ff-a95e-f77b75659a52",
       "LED_matrix"
+    ],
+    [
+      "bb5d4e4a-cd64-4c06-bd3c-c3b86fee81c9",
+      "ESP32"
     ]
   ],
   "text_variables": {}
