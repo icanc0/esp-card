@@ -4443,7 +4443,7 @@
 	)
 	(bus
 		(pts
-			(xy 63.5 127) (xy 68.58 127)
+			(xy 63.5 123.19) (xy 68.58 123.19)
 		)
 		(stroke
 			(width 0)
@@ -5163,7 +5163,7 @@
 	)
 	(bus
 		(pts
-			(xy 63.5 92.71) (xy 63.5 127)
+			(xy 63.5 92.71) (xy 63.5 123.19)
 		)
 		(stroke
 			(width 0)
@@ -5773,7 +5773,7 @@
 	)
 	(bus
 		(pts
-			(xy 68.58 127) (xy 68.58 132.08)
+			(xy 68.58 123.19) (xy 68.58 132.08)
 		)
 		(stroke
 			(width 0)
@@ -11861,6 +11861,66 @@
 		)
 		(uuid "ff9a2f3c-a93d-4b72-a8ea-3125e84a820d")
 	)
+	(text "row 9"
+		(exclude_from_sim no)
+		(at 92.202 396.494 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "28e05dea-f998-4aad-8b44-4da59662dbd3")
+	)
+	(text "row 6"
+		(exclude_from_sim no)
+		(at 90.17 294.386 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3655026b-ccd1-49dd-ba97-5cff5bd164d4")
+	)
+	(text "row 12"
+		(exclude_from_sim no)
+		(at 89.154 498.348 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "5d9100b3-56c7-45fe-9b84-901f8cda74fd")
+	)
+	(text "row 3"
+		(exclude_from_sim no)
+		(at 94.488 187.452 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "92dff059-fab5-4940-a8b0-ca5f19992574")
+	)
+	(text "Made by @icanc"
+		(exclude_from_sim no)
+		(at 388.874 23.368 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9ad535b0-fd44-4a6c-b394-8a703a72d07c")
+	)
+	(text "row 1"
+		(exclude_from_sim no)
+		(at 102.616 110.744 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b8a0c26a-c4c5-41d7-9bdd-19fe9a8213f0")
+	)
 	(label "CTRL1"
 		(at 90.17 132.08 0)
 		(effects
@@ -12021,17 +12081,6 @@
 		)
 		(uuid "716a3d67-d2ea-4ad3-bc59-e5394a302e60")
 	)
-	(label "row 1"
-		(at 102.87 114.3 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "77de7e7a-0950-4fe1-996b-ecd34fa20663")
-	)
 	(label "CTRL1"
 		(at 255.27 86.36 0)
 		(effects
@@ -12062,17 +12111,6 @@
 		)
 		(uuid "8c9a3f6f-446b-46a5-b75a-7ddcb2ab5b51")
 	)
-	(label "row 6"
-		(at 81.28 294.64 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "8e298d55-699e-4187-a41d-471b5d93a46c")
-	)
 	(label "CTRL11"
 		(at 255.27 45.72 0)
 		(effects
@@ -12082,17 +12120,6 @@
 			(justify left bottom)
 		)
 		(uuid "92a623c5-c834-4531-b3ba-251aefbef01d")
-	)
-	(label "row 3"
-		(at 83.82 186.69 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "94711e7d-92f5-40c4-9f32-613abe56bf56")
 	)
 	(label "CTRL6"
 		(at 90.17 144.78 0)
@@ -12104,17 +12131,6 @@
 		)
 		(uuid "986ed82c-b64a-46c0-b168-5b2704ff23c2")
 	)
-	(label "CTRL[0..12]"
-		(at 68.58 127 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "9e285de0-d377-401f-b33f-d590c9585b9b")
-	)
 	(label "CTRL0"
 		(at 256.54 90.17 0)
 		(effects
@@ -12125,17 +12141,6 @@
 		)
 		(uuid "b5b27d9c-6c21-4fc5-963c-e9515d97f9eb")
 	)
-	(label "row 9"
-		(at 81.28 397.51 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "c2868fdd-7c91-4e56-b36a-021b7560f038")
-	)
 	(label "CTRL11"
 		(at 90.17 157.48 0)
 		(effects
@@ -12145,17 +12150,6 @@
 			(justify left bottom)
 		)
 		(uuid "cffe73ba-4fd8-4628-b561-8ab9f7efc052")
-	)
-	(label "made by @icanc"
-		(at 384.81 19.05 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d2256774-2438-4bca-a339-dbb3326fdcc7")
 	)
 	(label "CTRL10"
 		(at 90.17 154.94 0)
@@ -12186,6 +12180,18 @@
 			(justify left bottom)
 		)
 		(uuid "f95ac48e-fa88-4239-8e38-c11c3c923a2b")
+	)
+	(hierarchical_label "CTRL[0..12]"
+		(shape tri_state)
+		(at 68.58 123.19 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "000d79ee-8c3b-4df7-8667-8b3ccd9a75a8")
 	)
 	(symbol
 		(lib_id "NH-B1010RGBT-HF:NH-B1010RGBT-HF")
