@@ -6,4 +6,6 @@
   (lib (name "XC6206P332MR")(type "KiCad")(uri "${KIPRJMOD}/library/symbol/XC6206P332MR.kicad_sym")(options "")(descr ""))
   (lib (name "TYPE_C-CQ-111PWB")(type "KiCad")(uri "${KIPRJMOD}/library/symbol/TYPE_C-CQ-111PWB.kicad_sym")(options "")(descr ""))
   (lib (name "CF4040M00015001")(type "KiCad")(uri "${KIPRJMOD}/library/symbol/CF4040M00015001.kicad_sym")(options "")(descr ""))
+  (lib (name "AMS1117-3_3")(type "KiCad")(uri "${KIPRJMOD}/library/symbol/AMS1117-3_3.kicad_sym")(options "")(descr ""))
+  (lib (name "YTC-TC16-30")(type "KiCad")(uri "${KIPRJMOD}/library/symbol/YTC-TC16-30.kicad_sym")(options "")(descr ""))
 )
