@@ -458,7 +458,12 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "Default",
+        "pattern": "+3.3V"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
@@ -506,7 +511,7 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -525,11 +530,29 @@
           "label": "DNP",
           "name": "${DNP}",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC",
+          "name": "LCSC",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
-      "name": "Grouped By Value",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -586,12 +609,16 @@
       "Root"
     ],
     [
-      "3df2d492-702b-46ff-a95e-f77b75659a52",
+      "52dec562-2417-434d-bec4-5ac4d8f35904",
       "LED_matrix"
     ],
     [
       "bb5d4e4a-cd64-4c06-bd3c-c3b86fee81c9",
       "ESP32"
+    ],
+    [
+      "8f237209-f932-45f7-b7bc-f97443ee2306",
+      "LED_Matrix_7_pin"
     ]
   ],
   "text_variables": {}
