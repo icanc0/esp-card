@@ -273,6 +273,7 @@
 	)
 	(label "CTRL3"
 		(at 96.52 71.12 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -283,6 +284,7 @@
 	)
 	(label "CTRL6"
 		(at 96.52 78.74 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -293,6 +295,7 @@
 	)
 	(label "CTRL1"
 		(at 96.52 66.04 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -303,6 +306,7 @@
 	)
 	(label "CTRL2"
 		(at 96.52 68.58 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -313,6 +317,7 @@
 	)
 	(label "CTRL0"
 		(at 96.52 63.5 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -323,6 +328,7 @@
 	)
 	(label "CTRL5"
 		(at 96.52 76.2 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -333,6 +339,7 @@
 	)
 	(label "CTRL4"
 		(at 96.52 73.66 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
