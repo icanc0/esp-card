@@ -4802,16 +4802,6 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 35.56) (xy 226.06 35.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cfb25afc-785d-4da7-9190-ba32acb23e8c")
-	)
-	(wire
-		(pts
 			(xy 52.07 68.58) (xy 52.07 72.39)
 		)
 		(stroke
@@ -5052,7 +5042,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 35.56) (xy 201.93 35.56)
+			(xy 195.58 35.56) (xy 226.06 35.56)
 		)
 		(stroke
 			(width 0)
@@ -8182,92 +8172,6 @@
 			(project "esp-card"
 				(path "/93cf1a11-1660-4ae3-a523-02ca090cff0a/bb5d4e4a-cd64-4c06-bd3c-c3b86fee81c9"
 					(reference "#PWR015")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 205.74 35.56 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "68c67f86-d576-48ec-9987-88a7d6a80926")
-		(property "Reference" "D1"
-			(at 205.74 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D"
-			(at 205.74 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 205.74 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 205.74 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 205.74 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 205.74 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 205.74 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ce0570e6-34e0-4b61-ba0f-7ae3b438a8fb")
-		)
-		(pin "2"
-			(uuid "93b077e5-2085-41d1-9852-5050e6e5f0db")
-		)
-		(instances
-			(project "esp-card"
-				(path "/93cf1a11-1660-4ae3-a523-02ca090cff0a/bb5d4e4a-cd64-4c06-bd3c-c3b86fee81c9"
-					(reference "D1")
 					(unit 1)
 				)
 			)
