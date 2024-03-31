@@ -1,0 +1,19 @@
+03-31 01:09:50 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 647:Plugin executed on: 'darwin'
+03-31 01:09:50 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 648:Plugin executed with python version: '3.9.13 (v3.9.13:6de2ca5339, May 17 2022, 11:37:23) \n[Clang 13.0.0 (clang-1300.0.29.30)]'
+03-31 01:09:50 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 649:KiCad build version: 8.0.1
+03-31 01:09:50 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 650:Plugin version: 3.0.0
+03-31 01:09:50 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 651:Frame repr: <wx._core.Frame object at 0x147392550>
+03-31 01:09:50 com_github_MitjaNemec_PlaceFootprints.place_footprints 121:getting a list of all footprints on board
+03-31 01:09:51 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 830:Reference designator is: U
+03-31 01:09:51 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 831:Reference number is: 407
+03-31 01:09:51 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 863:Sorted and filtered list:
+['U401', 'U402', 'U403', 'U404', 'U405', 'U406', 'U407', 'U408', 'U409', 'U410', 'U411', 'U412', 'U413', 'U414']
+03-31 01:09:51 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 359:wx.Colour(231, 231, 231, 255)
+03-31 01:09:59 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 490:'3'
+03-31 01:09:59 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 549:Preparing config for reference matrix
+03-31 01:09:59 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 556:Saving config file
+03-31 01:09:59 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 558:Saved the config file
+03-31 01:10:00 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 901:Footprints to place:
+['U401', 'U402', 'U403', 'U404', 'U405', 'U406', 'U407', 'U408', 'U409', 'U410', 'U411', 'U412', 'U413', 'U414']
+03-31 01:10:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 398:Starting placing with matrix layout
+03-31 01:10:00 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 971:Placing complete
